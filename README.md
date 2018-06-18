@@ -1,5 +1,6 @@
 # chooseasy
-An Android micro-library with grouped pickers that makes choosing easy
+An Android micro-library with grouped pickers that makes choosing easy 
+
 Let your android application users find selectable items conveniently. Create and bind hierarchical grouped lists to your ArrayAdapters for **Pickers** , **MultiAutoCompleteTextViews** and **Search Filter Views**
 
 ![Android grouped Pickers](/choose_easy.png "Android grouped Pickers")
